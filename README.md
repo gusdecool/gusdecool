@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66cffe8786ab8b2c1778473d?variant=dark&roadmaps=backend%2Cfrontend%2Ctechnical-writer%2Csoftware-architect)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66cffe8786ab8b2c1778473d?variant=dark&roadmaps=software-architect%2Cbackend%2Cdocker%2Ctechnical-writer)](https://roadmap.sh)
