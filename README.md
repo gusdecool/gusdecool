@@ -1,22 +1,20 @@
 # Hi there 👋
-Thank you for visiting my profile!
-
-I'm a backend software engineer with a passion for building scalable and reliable systems.
+Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.
 
 ## Professional experiences (latest to oldest)
 
-Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) (remote, 9 years & present)
+Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) (remote, 9 years & present)  
 Key responsibilities:
 - Implemented scalable REST APIs for car hire booking engines with multiple supplier integrations.
 - Collaborated with cross-functional teams to deliver high-quality software solutions and support them.
 - Mentored junior engineers and provided technical guidance.
 - Manage code deployment & deliverances.
 
-Senior Software Engineer @ [Prosura](https://www.prosura.com.au/) (remote, 9 years & present)
+Senior Software Engineer @ [Prosura](https://www.prosura.com.au/) (remote, 9 years & present)  
 Key responsibilities:
 - Implemented REST API for partner integrations with multiple payment gateways.
 
-Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)
+Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)  
 Key responsibilities:
 - Provide IT consultancy services to startups and small businesses.
 - Ensure the client satisfaction and stability on their IT infrastructure to support their business.
