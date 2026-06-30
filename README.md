@@ -1,9 +1,14 @@
 # Hi there 👋
 Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.
 
+Currently actively looking for remote works with experience related to:
+- REST API development with PHP, MySQL, Nodejs & Typescript.
+- AWS (SAM, Event Bridge, EC2, SQS, etc) & Dockerize infrastructure.
+- CI/CD automatation.
+
 ## Professional experiences (latest to oldest)
 
-Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) (remote, 9 years & present)  
+Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) (remote, 10 years)  
 Key responsibilities:
 - Implemented scalable REST APIs for car hire booking engines with multiple supplier integrations.
 - Collaborated with cross-functional teams to deliver high-quality software solutions and support them.
@@ -62,7 +67,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![roadmap.sh](https://roadmap.sh/card/tall/66cffe8786ab8b2c1778473d?variant=dark&roadmaps=software-architect%2Cbackend%2Cdocker%2Ctechnical-writer)](https://roadmap.sh)
 -->
 
 
