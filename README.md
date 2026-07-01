@@ -26,7 +26,6 @@ Key responsibilities:
 - Mentored the usage of AI LLM to boost code development productivity and maintain security.
 - Prosura: Implemented REST API for partner integrations with multiple payment gateways.
 
-
 Solo Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)  
 Key responsibilities:
 - Provide IT consultancy services to startups and small businesses.
@@ -42,7 +41,7 @@ Investments and portfolio management.
 
 ## I'm looking to collaborate on
 
-Part time projects opportunity to apply and hone my skills.
+Full or Part time projects opportunity to apply and hone my skills.
 
 Dockerized App microservices for scalability and reliability.
 
