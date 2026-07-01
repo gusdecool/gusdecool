@@ -8,7 +8,7 @@ Thank you for visiting my profile. I'm a backend software engineer with a passio
 - Cloud & Infrastructure: AWS (Serverless, SAM, EC2, Event Bridge), Docker, Kubernetes.
 - Software Development Best Practices: Agile, CI/CD, Sprint Deployment, Team Mentorship.
 - AI Vibe Coding & Integration.
-- N8N automation experience.
+- N8N automation with AI integration.
 
 ## Professional experiences (latest to oldest)
 
