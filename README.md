@@ -1,36 +1,36 @@
 # Hi there 👋
 Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.
 
-Currently actively looking for remote works with experience related to:
-- REST API development with PHP, MySQL, Nodejs & Typescript.
-- AWS (SAM, Event Bridge, EC2, SQS, etc) & Dockerize infrastructure.
-- CI/CD automatation.
+## Technical Experience
+- 10+ years experience working remotely as a software engineer.
+- Backend Development: REST API, Laravel, Symfony, Node.js, TypeScript, PHP & MySQL, React, Next.js.
+- Aggregator Systems: Car Hire booking engines and vendor API data aggregation.
+- Cloud & Infrastructure: AWS (Serverless, SAM, EC2, Event Bridge), Docker, Kubernetes.
+- Software Development Best Practices: Agile, CI/CD, Sprint Deployment, Team Mentorship.
+- AI Vibe Coding & Integration.
+- N8N automation experience.
 
 ## Professional experiences (latest to oldest)
 
-Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) (remote, 10 years)  
+Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/) (remote, 10 years)  
 Key responsibilities:
-- Implemented scalable REST APIs for car hire booking engines with multiple supplier integrations.
-- Collaborated with cross-functional teams to deliver high-quality software solutions and support them.
-- Mentored junior engineers and provided technical guidance.
-- Manage code deployment & deliverances.
+- Develop and maintain REST API with Laravel & Symfony.
+- Managed AWS cloud infrastructure for the VPS and Code Deployment.
+- Integrated Stripe payment gateway.
+- Database query optimization with AWS Database Insight.
+- Promoted as Senior Technical Lead and led a small backend development team.
+- Implemented and documented sprint-based deployment schedule improving Dev & QA efficiency.
+- Recognized as Employee of the Month multiple times.
+- Implemented Customer Personal Identification Information (PII) protection with auto data removal.
+- Integrated vendors API with their XML SOAP & REST API into the company unified aggregator engine.
+- Mentored the usage of AI LLM to boost code development productivity and maintain security.
+- Prosura: Implemented REST API for partner integrations with multiple payment gateways.
 
-Senior Software Engineer @ [Prosura](https://www.prosura.com.au/) (remote, 10 years)  
-Key responsibilities:
-- Implemented REST API for partner integrations with multiple payment gateways.
 
 Solo Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)  
 Key responsibilities:
 - Provide IT consultancy services to startups and small businesses.
 - Ensure the client satisfaction and stability on their IT infrastructure to support their business.
-
-## Technologies I'm familiar with
-
-- PHP, Javascript / Typescript, Nodejs, SQL for Web & Server Application.
-- AWS Infrastructure including EC2, SAM, DynamoDB, SQS, SNS, Lambda, API Gateway.
-- REST API & Serverless Architecture.
-- Laravel & Symfony for PHP Application.
-- N8N workflow automation.
 
 ## I'm currently learning on
 
