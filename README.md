@@ -1,30 +1,34 @@
 # Hi there 👋
-Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.
+Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.  
+I'm currently actively looking for new role in Backend or FullStack Software Engineer. 
+If you have any available roles or references, please reach out. I appreciate it. 
+
+Thank you.
 
 ## Technical Experience
-- 10+ years experience working remotely as a software engineer.
-- Backend Development: REST API, Laravel, Symfony, Node.js, TypeScript, PHP & MySQL, React, Next.js.
-- Aggregator Systems: Car Hire booking engines and vendor API data aggregation.
-- Cloud & Infrastructure: AWS (Serverless, SAM, EC2, Event Bridge), Docker, Kubernetes.
-- Software Development Best Practices: Agile, CI/CD, Sprint Deployment, Team Mentorship.
-- AI Vibe Coding & Integration.
-- N8N automation with AI integration.
+- 10+ years experience working remotely as a software engineer, able to work on company preferred timezone.
+- Backend: REST API, Laravel, Symfony, Node.js, TypeScript, PHP , MySQL, React, Next.js.
+- Cloud & Infrastructure: AWS, Docker, Kubernetes, CI/CD, microservices.
+- Scalable Frontend Solution with React reusable components.
+- Aggregator Systems for car hire booking engines and vendor API data aggregation.
+- Engineering Practices: Agile, Sprint Deployment, Team Mentorship, Cyber Security, TDD.
+- Automation/AI: RAG, n8n, AI-assisted development .
 
 ## Professional experiences (latest to oldest)
 
 Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/) (remote, 10 years)  
 Key responsibilities:
-- Develop and maintain REST API with Laravel & Symfony.
-- Managed AWS cloud infrastructure for the VPS and Code Deployment.
-- Integrated Stripe payment gateway.
-- Database query optimization with AWS Database Insight.
-- Promoted as Senior Technical Lead and led a small backend development team.
-- Implemented and documented sprint-based deployment schedule improving Dev & QA efficiency.
-- Recognized as Employee of the Month multiple times.
-- Implemented Customer Personal Identification Information (PII) protection with auto data removal.
-- Integrated vendors API with their XML SOAP & REST API into the company unified aggregator engine.
-- Mentored the usage of AI LLM to boost code development productivity and maintain security.
-- Prosura: Implemented REST API for partner integrations with multiple payment gateways.
+- Owned **REST API** development for a booking engine using Laravel and Symfony, supporting a production system with vendor integrations and partner onboarding. Managed **AWS** infrastructure including VPS, deployment, VPC, and IAM, showing hands-on responsibility for cloud operations and access control.
+- Developed **microservices** to oﬄoad processing and improve API performance, which shows system design work and service decomposition.
+- Integrated **Stripe** payment gateway.
+- Built a reusable **React** component architecture that made partner integration easier and improved frontend scalability for the platform.
+- Optimized **database** queries using AWS Database Insight and improved performance by 15x, which demonstrates measurable impact on system eﬃciency.
+- Promoted to **Senior Technical Lead** and led a small backend development team, signaling progression into technical leadership and mentorship.
+- Implemented and documented a sprint-based deployment schedule that improved Dev and QA eﬃciency, showing process improvement across the delivery lifecycle.
+- Recognized as **Employee of the Month** multiple times.
+- Architected **secure backend** practices including automated PII sanitization and infrastructure hardening, maintaining a zero-incident data security record.
+- Integrated vendor **XML, SOAP , and REST APIs** into a unified aggregator engine, demonstrating cross-system integration experience.
+- Mentored teammates on using **AI-assisted** development while maintaining security practices, showing coaching ability and judgment around tooling adoption.
 
 Solo Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)  
 Key responsibilities:
