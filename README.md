@@ -1,18 +1,19 @@
 # Hi there 👋
 Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.  
-I'm currently actively looking for new role in Backend or FullStack Software Engineer. 
+I'm currently **actively looking for new role in Backend or FullStack Software Engineer**. 
 If you have any available roles or references, please reach out. I appreciate it. 
 
 Thank you.
 
 ## Technical Experience
-- 10+ years experience working remotely as a software engineer, able to work on company preferred timezone.
-- Backend: REST API, Laravel, Symfony, Node.js, TypeScript, PHP , MySQL, React, Next.js.
-- Cloud & Infrastructure: AWS, Docker, Kubernetes, CI/CD, microservices.
-- Scalable Frontend Solution with React reusable components.
-- Aggregator Systems for car hire booking engines and vendor API data aggregation.
-- Engineering Practices: Agile, Sprint Deployment, Team Mentorship, Cyber Security, TDD.
-- Automation/AI: RAG, n8n, AI-assisted development .
+- **10+ years** experience working remotely as a software engineer, able to work on company preferred timezone.
+- **Backend:** REST API, Laravel, Symfony, Node.js, TypeScript, PHP , MySQL, React, Next.js.
+- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD, microservices.
+- **Scalable Frontend** solution with React reusable components.
+- **Aggregator Systems** for car hire booking engines and vendor API data aggregation.
+- **Engineering Practices:** Agile, Sprint Deployment, Team Mentorship, Cyber Security, TDD.
+- **AI-First Engineering:** RAG implementation, n8n automation, and AI-assisted development
+workflows.
 
 ## Professional experiences (latest to oldest)
 
@@ -37,19 +38,15 @@ Key responsibilities:
 
 ## I'm currently learning on
 
-Artificial Intelligence (AI) for Retrieval Augmented Generation (RAG) and Large Language Models (LLM).
-
-Stock analytic to suggest purchase based on user criterias and sell notifications when it reach the target.
-
-Investments and portfolio management.
+- Artificial Intelligence (AI) for Retrieval Augmented Generation (RAG) and Large Language Models (LLM).
+- Stock analytic to suggest purchase based on user criterias and sell notifications when it reach the target.
+- Investments and portfolio management.
 
 ## I'm looking to collaborate on
 
-Full or Part time projects opportunity to apply and hone my skills.
-
-Dockerized App microservices for scalability and reliability.
-
-Automating your workflow with AI
+- Full or Part time projects opportunity to apply and hone my skills.
+- Dockerized App & microservices for scalability and reliability.
+- Automating workflow with AI
 
 ## How to reach me
 
