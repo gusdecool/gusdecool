@@ -47,9 +47,3 @@ Key responsibilities:
 - Full or Part time projects opportunity to apply and hone my skills.
 - Dockerized App & microservices for scalability and reliability.
 - Automating workflow with AI
-
-## How to reach me
-
-Email me at [gusdecool@gmail.com](mailto:gusdecool@gmail.com)
-
-Find my writing in [Medium](https://medium.com/@gusdecool)
