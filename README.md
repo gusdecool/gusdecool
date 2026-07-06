@@ -15,7 +15,7 @@ Thank you.
 - **AI-First Engineering:** RAG implementation, n8n automation, and AI-assisted development
 workflows.
 
-## Professional experiences (latest to oldest)
+## Professional experiences
 
 Senior Software Engineer @ [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/) (remote, 10 years)  
 Key responsibilities:
@@ -30,11 +30,6 @@ Key responsibilities:
 - Architected **secure backend** practices including automated PII sanitization and infrastructure hardening, maintaining a zero-incident data security record.
 - Integrated vendor **XML, SOAP , and REST APIs** into a unified aggregator engine, demonstrating cross-system integration experience.
 - Mentored teammates on using **AI-assisted** development while maintaining security practices, showing coaching ability and judgment around tooling adoption.
-
-Solo Founder @ [BungaMata](https://bungamata.com) (founder, 18 years & present)  
-Key responsibilities:
-- Provide IT consultancy services to startups and small businesses.
-- Ensure the client satisfaction and stability on their IT infrastructure to support their business.
 
 ## I'm currently learning on
 
