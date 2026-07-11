@@ -1,6 +1,6 @@
 # Hi there 👋
-Thank you for visiting my profile. I'm a backend software engineer with a passion for building scalable and reliable systems.  
-I'm currently **actively looking for new role in Backend or FullStack Software Engineer**. 
+Thank you for visiting my profile. I'm a Senior Software Engineer with a passion for building scalable and reliable systems.  
+I'm currently **actively looking for new role in Senior Backend or FullStack Software Engineer**. 
 If you have any available roles or references, please reach out. I appreciate it. 
 
 Thank you.
