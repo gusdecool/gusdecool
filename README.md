@@ -12,7 +12,6 @@ Thank you.
 - **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD, Distributed Systems.
 - **Data & Querying:** MySQL, PostgreSQL, Redis, Pinecone, GraphQL, REST, XML, SOAP.
 
-
 ## Professional experiences
 _Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026 (10 years) | [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/)_
 - Architected product full **lifecycle**, from development to deployment & monitoring.
@@ -25,15 +24,12 @@ _Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026
 - Established a **secure-by-design** workflow, balanced innovation and strict-security.
 - Established a framework for **AI-assisted development**, training the engineering team on effective prompt engineering and secure coding workflows; balanced rapid innovation with strict security oversight to ensure high-quality code output.
 
-
-## I'm currently learning on
-
+## I'm currently deepen my skills on:
 - Artificial Intelligence (AI) for Retrieval Augmented Generation (RAG) and Large Language Models (LLM).
 - Stock analytic to suggest purchase based on user criterias and sell notifications when it reach the target.
 - Investments and portfolio management.
 
-## I'm looking to collaborate on
-
+## I'm looking to collaborate on:
 - Full or Part time projects opportunity to apply and hone my skills.
 - Dockerized App & microservices for scalability and reliability.
 - Automating workflow with AI
