@@ -7,10 +7,10 @@ Thank you.
 
 ## Summary
 - **Languages:** Python, Go, TypeScript, PHP.
-- **Frameworks:** Laravel, Symfony, FastAPI, Next.js, Node.js.
+- **Frameworks:** Laravel, Symfony, FastAPI, Next.js, Node.js, React, Angular.
 - **AI/Agentic Frameworks:** LangChain, LangGraph, LangFuse, FactMCP, RAG, n8n.
 - **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD, Distributed Systems.
-- **Data & Querying:** MySQL, PostgreSQL, Redis, Pinecone, GraphQL, REST, XML, SOAP.
+- **Data & Querying:** MySQL, PostgreSQL, MongoDB, Redis, Pinecone, GraphQL, REST, XML, SOAP , WebSocket.
 
 ## Professional experiences
 _Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026 (10 years) | [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/)_
