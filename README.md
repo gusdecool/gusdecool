@@ -13,6 +13,7 @@ Thank you.
 - **Data & Querying:** MySQL, PostgreSQL, MongoDB, Redis, Pinecone, GraphQL, REST, XML, SOAP , WebSocket.
 
 ## Professional experiences
+**Senior Software Engineer & Technical Lead**  
 _Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026 (10 years) | [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/)_
 - Architected product full **lifecycle**, from development to deployment & monitoring.
 - Scaled & simplified **API** infrastructure, capable of handling millions traffic per day with easy third party integration and error auto recovery, improved conversion by 30%.
