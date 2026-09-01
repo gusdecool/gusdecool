@@ -5,6 +5,12 @@ If you have any available roles or references, please reach out. I appreciate it
 
 Thank you.
 
+## Portfolios
+- ava.bungamata.com. Agentic AI for every day use. **Vercel Eve**, Next.js, AI NLP tool integration.
+- vroom.com.au, carhire.com.au. Car Hire Aggregator Booking Engine. Multi-tenant B2B Saas. **Laravel**, React, REST API, AWS DevOps, API Integration, **Technical Lead**.
+- prosura.com.au. Car Hire Excess Insurance. **Symfony**, React, REST API, React as widget.
+- thearirasresort.com. Hotel CMS. **Wordpress**, Elementor.
+
 ## Summary
 - **Languages:** Python, Go, TypeScript, PHP.
 - **Frameworks:** Laravel, Symfony, FastAPI, Next.js, Node.js, React, Angular.
