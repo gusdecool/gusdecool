@@ -6,21 +6,25 @@ If you have any available roles or references, please reach out. I appreciate it
 Thank you.
 
 ## Portfolios
-- ava.bungamata.com. Agentic AI for every day use. **Vercel Eve**, Next.js, AI NLP tool integration.
-- vroom.com.au, carhire.com.au. Car Hire Aggregator Booking Engine. Multi-tenant B2B Saas. **Laravel**, React, REST API, AWS DevOps, API Integration, **Technical Lead**.
-- prosura.com.au. Car Hire Excess Insurance. **Symfony**, React, REST API, React as widget.
-- thearirasresort.com. Hotel CMS. **Wordpress**, Elementor.
+- [iklanify.com](https://iklanify.com). Advertising marketplace board SaaS. **Next.js**, Payment gateway, container, Terraform
+- [ava.bungamata.com](https://ava.bungamata.com). Agentic AI for every day use. **Vercel Eve**, Next.js, AI NLP tool integration.
+- [convert-image](https://github.com/gusdecool/convert-image). Open source desktop app to resize image. **Electron**, React, Node.js.
+- [vroom.com.au](https://vroom.com.au), [carhire.com.au](https://carhire.com.au). Car Hire Aggregator Booking Engine. Multi-tenant B2B Saas. **Laravel**, React, REST API, AWS DevOps, API Integration, **Technical Lead**.
+- [prosura.com.au](https://prosura.com.au). Car Hire Excess Insurance. **Symfony**, React, REST API, React as widget.
+- [thearirasresort.com](https://thearirasresort.com). Hotel Web CMS. **Wordpress**, Elementor.
 
 ## Summary
-- **Languages:** Python, Go, TypeScript, PHP.
-- **Frameworks:** Laravel, Symfony, FastAPI, Next.js, Node.js, React, Angular.
+- **Languages:** PHP, Typescript, Python, Go.
+- **Frameworks:** Laravel, Symfony, FastAPI, Nextjs, Nestjs, Node.js, React, Angular, Vercel Eve.
 - **AI/Agentic Frameworks:** LangChain, LangGraph, LangFuse, FactMCP, RAG, n8n.
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD, Distributed Systems.
-- **Data & Querying:** MySQL, PostgreSQL, MongoDB, Redis, Pinecone, GraphQL, REST, XML, SOAP , WebSocket.
+- **Machine Learning:** Numpy, Pandas, Scikit, Pytorch, Vector Search, fine-tuning & model eval.
+- **Cloud & Infrastructure:** AWS DevOps/Network, Event Driven System (AWS SQS, RabbitMQ, GCP Pub/Sub), Docker, Kubernetes, CI/CD, Distributed Systems, Terraform, GitHub action.
+- **Data & Querying:** MySQL, PostgreSQL, MongoDB, Redis, Pinecone, GraphQL, REST API, XML, SOAP, WebSocket.
 
 ## Professional experiences
 **Senior Software Engineer & Technical Lead**  
-_Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026 (10 years) | [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/)_
+_Remote Contractor | VroomVroomVroom Pty. Ltd., Australia | May 2016 - June 2026 (10 years) | [VroomVroomVroom](https://www.vroomvroomvroom.com.au/) & [Prosura](https://www.prosura.com.au/)_  
+B2B SaaS car rental aggregator booking engine with integrated insurance products, serving customers across Australia, NZ, US, UK and Canada.
 - Architected product full **lifecycle**, from development to deployment & monitoring.
 - Scaled & simplified **API** infrastructure, capable of handling millions traffic per day with easy third party integration and error auto recovery, improved conversion by 30%.
 - Architected the **payment gateway** system with security first approach and error recovery.
